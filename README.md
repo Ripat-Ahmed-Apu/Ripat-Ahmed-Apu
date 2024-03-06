@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center"># 💫 About Me:</h1>
 🔭 I’m currently working as a Technical Support Analyst<br>👯 I’m looking to collaborate on new things<br>🌱 I’m currently learning C#<br>💬 Ask me about anything<br>⚡ I think I am funny
 
 
