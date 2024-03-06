@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working as a Technical Support Analyst<br>👯 I’m looking to collaborate on new things<br>🌱 I’m currently learning C#<br>💬 Ask me about anything<br>⚡ I think I am funny<br>
 
-<img align="right"  width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<br>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ripatahmedapu_17234) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100006321161394&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ahmed_ripat_opu/?igsh=MXEzbHh1cGJoNG4yYg%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ripat-ahmed-apu-5bb803198/) 
