@@ -1,3 +1,4 @@
+![logo](https://github.com/Ripat-Ahmed-Apu/Ripat-Ahmed-Apu/blob/main/GitHub-Banner.png)
 # 💫 About Me:
 🔭 I’m currently working as a Technical Support Analyst<br>👯 I’m looking to collaborate on new things<br>🌱 I’m currently learning C#<br>💬 Ask me about anything<br>⚡ I think I am funny<br>
 
